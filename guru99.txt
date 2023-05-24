@@ -1,0 +1,51 @@
+User ID :	mngr460574
+Password :	utytebY
+
+User ID :	mngr482955
+Password :	Ysazyhy
+
+Customer ID	76614
+
+Registered Customer details are as follows:
+
+Customer ID	10006
+Customer Name	kisan
+Gender	male
+Birthdate	0001-01-01
+Address	kisan
+City	sirdi
+State	mahar
+Pin	789456
+Mobile No.	9234567891
+Email	sirdi@dot.com
+
+Account Generated Successfully!!!
+<class name="com.mybank.testcase.TC_AddNewCustomer"/>
+      <class name="com.mybank.testcase.TC_DepositMoney"/>
+
+<class name="com.mybank.testcase.TC_AddBankAccount"/>
+      <class name="com.mybank.testcase.TC_AddNewCustomer"/>
+
+<listeners>
+		<listener class-name="com.mybank.utilities.ExtentListenerClass"></listener>
+	</listeners>
+
+
+Created Account details are as follows:
+
+Account ID	119296/98
+Customer ID	10006
+Customer Name	kisan
+Email	sirdi@dot.com
+Account Type	Savings
+Date of Opening	2023-03-08
+Current Amount	1000
+
+<plugin>
+					<groupId>org.apache.maven.plugins</groupId>
+					<artifactId>maven-compiler-plugin</artifactId>
+					<configuration>
+						<source>1.7</source>
+						<target>1.7</target>
+					</configuration>
+				</plugin>

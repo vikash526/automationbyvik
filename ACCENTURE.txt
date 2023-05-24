@@ -1,0 +1,31 @@
+ACCENTURE-
+Introduce yourself"
+explain framework
+what is Maven?
+diff btw assert and verify
+types of locators
+which is best CSS selector or XPATH?
+selenium components
+selenese and types of selenese?
+What are diff types of test automation frameworks?
+limitations of selenium?
+can we test captch and barcode reader using selenium?
+types of waits?
+if I have to mention specific condition like element to be clickable or element to be visible. which wait will we use?
+Do yoou have any idea on Jenkins?
+Do you have any idea on appium?
+What is project structure in eclipse?
+Diff btw thread.sleep and setspeed()?
+Agile methodolgy?
+what is scrum?
+3-5-3 structure? 3 roles, 5 events and 3 artifacts
+diff btw close and quit
+diff methds in navigate: to, forward, back, refresh
+diff btw driver.navigate and driver.get
+Can selenium handle windows based popups?
+diff btw absolute and relative xpath?
+syntax of relatvie xpath
+diff types of exceptions in selenium?
+diff btw getwndowhandle and getwindowhandles?
+wat is object repo?
+diff test case design techniques?
